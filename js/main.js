@@ -240,11 +240,7 @@
     };
 
 
-   /* Placeholder Plugin Settings
-    * ------------------------------------------------------ */
-    var clPlaceholder = function() {
-        $('input, textarea, select').placeholder();  
-    };
+
 
 
    /* Alert Boxes
