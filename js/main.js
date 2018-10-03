@@ -243,15 +243,7 @@
 
 
 
-   /* Alert Boxes
-    * ------------------------------------------------------ */
-    var clAlertBoxes = function() {
 
-        $('.alert-box').on('click', '.alert-box__close', function() {
-            $(this).parent().fadeOut(500);
-        }); 
-
-    };
 
 
    /* Contact Form
@@ -355,13 +347,9 @@
         clMenuOnScrolldown();
         clOffCanvas();
         clStatCount();
-        clSlickSlider();
         clSmoothScroll();
-        clPlaceholder();
         clAlertBoxes();
-        clContactForm();
         clAOS();
-        clAjaxChimp();
         clBackToTop();
 
     })();
