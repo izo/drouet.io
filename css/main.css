@@ -264,7 +264,7 @@ blockquote cite a, blockquote cite a:visited {
 }
 
 abbr {
-    font-family: "lora-bold", serif;
+font-family: 'Lora', serif;
     font-variant: small-caps;
     text-transform: lowercase;
     letter-spacing: .05rem;
