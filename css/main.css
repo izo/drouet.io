@@ -75,7 +75,7 @@ html, body {
 
 body {
     background: #111111;
-    font-family: "lora-regular", serif;
+    font-family: 'Lora', serif;
     font-size: 1.7rem;
     font-style: normal;
     font-weight: normal;
@@ -111,7 +111,7 @@ a:hover, a:active {
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, 
 .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: "montserrat-medium", sans-serif;
+font-family: 'Montserrat', sans-serif;
     color: #000000;
     font-style: normal;
     font-weight: normal;
@@ -186,7 +186,7 @@ p img {
 }
 
 p.lead {
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 2rem;
     font-weight: 300;
     line-height: 1.8;
@@ -208,11 +208,11 @@ em, i, strong, b {
 }
 
 em, i {
-    font-family: "lora-italic", serif;
+font-family: 'Lora', serif;
 }
 
 strong, b {
-    font-family: "lora-bold", serif;
+font-family: 'Lora', serif;
 }
 
 small {
@@ -239,7 +239,7 @@ blockquote:before {
 }
 
 blockquote p {
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     padding: 0;
     font-size: 2.1rem;
     line-height: 1.857;
@@ -248,7 +248,7 @@ blockquote p {
 
 blockquote cite {
     display: block;
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 1.4rem;
     font-style: normal;
     line-height: 1.5;
@@ -425,7 +425,7 @@ table {
     border-width: 0;
     width: 100%;
     max-width: 100%;
-    font-family: "lora-regular", serif;
+    font-family: 'Lora', serif;
 }
 
 th, td {
@@ -706,7 +706,7 @@ select:focus {
 }
 
 label, legend {
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 1.4rem;
     font-weight: bold;
     margin-bottom: .9rem;
@@ -722,7 +722,7 @@ input[type="checkbox"], input[type="radio"] {
 label > .label-text {
     display: inline-block;
     margin-left: 1rem;
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-weight: normal;
     line-height: inherit;
 }
@@ -788,7 +788,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
     display: inline-block;
-    font-family: "montserrat-medium", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
@@ -907,7 +907,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     position: relative;
     margin-bottom: 3rem;
     border-radius: 3px;
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
     line-height: 1.6;
 }
@@ -956,7 +956,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     margin: 0;
     padding: 1.5rem .6rem 0 0;
     font-size: 8.4rem;
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     line-height: 6rem;
     text-indent: 0;
@@ -1094,7 +1094,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .stats-tabs li a {
     display: inline-block;
     font-size: 2.5rem;
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     border: none;
     color: #000000;
@@ -1108,7 +1108,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     margin: .6rem 0 0 0;
     font-size: 1.4rem;
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     color: #828282;
 }
 
@@ -1153,7 +1153,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     right: 0;
     top: -3.6rem;
     display: block;
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     color: #FFFFFF;
     font-size: 1.1rem;
     line-height: 1;
@@ -1213,7 +1213,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## display headings
  * ------------------------------------------------------------------- */
 .display-1 {
-    font-family: "montserrat-medium", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 7.8rem;
     line-height: 1.25;
     color: #000000;
@@ -1225,7 +1225,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .display-2 {
-    font-family: "montserrat-medium", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 5.2rem;
     line-height: 1.255;
     color: #000000;
@@ -1529,7 +1529,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .header-nav__list {
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 1.8rem;
     margin: 3.6rem 0 3rem 0;
     padding: 0 0 1.8rem 0;
@@ -1648,7 +1648,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     height: 42px;
     width: 42px;
     line-height: 42px;
-    font-family: "montserrat-medium", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
@@ -1792,7 +1792,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content h3 {
-    font-family: "montserrat-medium", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 1.6rem;
     color: rgba(255, 255, 255, 0.5);
     text-transform: uppercase;
@@ -1804,7 +1804,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content h1 {
-    font-family: "montserrat-medium", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 5.3rem;
     line-height: 1.333;
     margin-top: 0;
@@ -1896,7 +1896,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## home social 
  * ------------------------------------------------------------------- */
 .home-social {
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     list-style: none;
     margin: 0;
     position: absolute;
@@ -2318,7 +2318,7 @@ footer .row {
 
 .footer-subscribe #mc-form label {
     color: #FFFFFF;
-    font-family: "montserrat-regular", sans-serif;
+font-family: 'Montserrat', sans-serif;
     font-size: 1.3rem;
     padding: 0 2rem;
 }
